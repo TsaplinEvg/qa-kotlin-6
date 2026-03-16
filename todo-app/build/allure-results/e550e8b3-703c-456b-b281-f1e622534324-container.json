@@ -1,1 +1,0 @@
-{"uuid":"e550e8b3-703c-456b-b281-f1e622534324","name":"Метод insert вызывается ровно один раз","children":["b11043ae-ddf5-49c8-8981-3a3714888c47"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1773686686481,"stop":1773686686482}],"afters":[],"start":1773686686476,"stop":1773686686547}

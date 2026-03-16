@@ -1,1 +1,0 @@
-{"uuid":"8866e544-3984-4684-b5f6-6065d835ad8f","name":"Удаление задачи по ID — возвращает 1 (строка удалена)","children":["5b989dea-00fc-4b53-8ffe-fd71af90def7"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1773686686624,"stop":1773686686624}],"afters":[],"start":1773686686620,"stop":1773686686630}

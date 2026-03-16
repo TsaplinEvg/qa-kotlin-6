@@ -1,1 +1,0 @@
-{"total":2,"items":[{"uid":"f0872502784b51c14875914a02c6a34d","name":"com.todo.db.TaskDaoMockTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":11,"unknown":0,"total":11}},{"uid":"c312b79e00197896c23403a8b5b49f3d","name":"com.todo.api.TaskApiMockServerTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":9,"unknown":0,"total":9}}]}

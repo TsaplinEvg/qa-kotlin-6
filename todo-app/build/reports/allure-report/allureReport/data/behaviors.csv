@@ -1,8 +1,0 @@
-"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"","SQLite Task Storage","CRUD операции","0","0","9","0","0"
-"","Task REST API","DELETE запросы","0","0","2","0","0"
-"","Task REST API","POST запросы","0","0","2","0","0"
-"","SQLite Task Storage","Бизнес-логика","0","0","1","0","0"
-"","Task REST API","GET запросы","0","0","4","0","0"
-"","Task REST API","PUT запросы","0","0","1","0","0"
-"","SQLite Task Storage","Верификация вызовов","0","0","1","0","0"
