@@ -1,0 +1,6 @@
+.gradle
+/build
+todo-app/.gradle
+todo-app/build
+.idea
+*.lock
